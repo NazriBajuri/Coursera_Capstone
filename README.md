@@ -7,7 +7,7 @@ ________
 This document provides the details of my final peer reviewed assignment for the IBM Data Science Professional Certificate program  – Coursera Capstone.
 
 ________
-## II. INTRODUCTION
+## II. INTRODUCTION / BUSINESS PLAN
 
 Singapore is a small country and one of the most visited countries in Asia. There are a lot of websites where travelers can check and retrieve recommendations of places to stay or visit. However, most of these websites provides recommendation simply based on usual tourist attractions or key residential areas that are mostly expensive or already known for travelers based on certain keywords like "Hotel", or "Backpackers" etc. The intention on this project is to collect and provide a data driven recommendation that can supplement the recommendation with statistical data. This will also be utilizing data retrieved from Singapore open data sources and FourSquare API venue recommendations.
 
