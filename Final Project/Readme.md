@@ -452,9 +452,6 @@ To demonstrate user selection of places of interest, We will use this Food Venue
  * Cafés
  * Other food venues
 
-List of my FourSquare Data collection saved in Github can be found in the following location:
- * https://github.com/crismag/Coursera_Capstone/tree/master/saved_data
-
 I used the FourSquare API to retrieve venue scores of locations. Note that there is max query limit of 50 in FourSquare API for free subscription. So use or query carefully.
 
 #### Data cleanup uneeded entries
