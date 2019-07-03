@@ -2443,11 +2443,4 @@ The generated clusters from our results shows that there are very good and inter
 
 I will be providing a other supplementary Inferential Statics in the future about on these data collected and also update in a new notebook using other categories. For now, this completes the requirements for this task.
 
-Thank you.
 
-Cris Magalang  
-email: crism.dev@gmail.com  
-linkedin: www.linkedin.com/in/crismagalang  
-
-
-Created For: COURSERA __**IBM Applied Data Science Capstone** Project__
